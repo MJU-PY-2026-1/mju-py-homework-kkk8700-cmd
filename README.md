@@ -210,6 +210,10 @@ int()나 float() 변환이 필요한 부분에 문자를 입력하면 ValueError
 파일 읽기 함수에 try-except를 적용해 파일이 없을 경우 “저장된 파일이 없습니다”라는 메시지를 출력하도록 하였다. 이를 통해 예외 상황도 안전하게 처리할 수 있게 되었다
 
 ### **📁 증빙 자료:**
-  * [4차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+  * [4차_AI협업캡처.pdf 첨부 완료] https://github.com/MJU-PY-2026-1/mju-py-homework-kkk8700-cmd/blob/main/%EF%BC%94%EC%B0%A8%EF%BD%81%EF%BD%89%ED%98%91%EC%97%85.png
   * [4차과제_실행결과.jpg]
+  * https://github.com/MJU-PY-2026-1/mju-py-homework-kkk8700-cmd/blob/main/%EF%BC%94%EC%B0%A8%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC%EF%BC%91.png
+
+https://github.com/MJU-PY-2026-1/mju-py-homework-kkk8700-cmd/blob/main/%EF%BC%94%EC%B0%A8%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC%EF%BC%92.png
+
 <br>
